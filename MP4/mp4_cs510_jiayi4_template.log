@@ -1,0 +1,437 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.10)  22 NOV 2017 06:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./mp4_cs510_jiayi4_template.tex
+(./mp4_cs510_jiayi4_template.tex
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
+(d:/tools/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(d:/tools/texlive/2017/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(d:/tools/texlive/2017/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+(d:/tools/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(d:/tools/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(d:/tools/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(d:/tools/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(d:/tools/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(d:/tools/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(d:/tools/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(d:/tools/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip47
+\thm@postskip=\skip48
+\thm@headsep=\skip49
+\dth@everypar=\toks24
+)
+(d:/tools/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(d:/tools/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(d:/tools/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(d:/tools/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(d:/tools/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks26
+)
+(d:/tools/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(d:/tools/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(d:/tools/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+(./mp4_cs510_jiayi4_template.aux)
+\openout1 = `mp4_cs510_jiayi4_template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=23.12738pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(d:/tools/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen120
+\scratchbox=\box28
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen121
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks28
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+ (d:/tools/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 15.
+
+(d:/tools/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{d:/tools/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (67.76474pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('County', 0.015251594827261567), ('New', 0.0088120325668622
+39), ('Eng-land', 0.0077425380160122915),
+ []
+
+
+Overfull \hbox (44.98265pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('River', 0.006748359982827834), ('In-dia', 0.00629646087683
+4898), ('South', 0.006175954448570116),
+ []
+
+
+Overfull \hbox (69.16393pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('Dis-trict', 0.006153359493270469), ('US', 0.00569392873551
+0985), ('Cram-bidae', 0.005181776415385658),
+ []
+
+
+Overfull \hbox (15.6001pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('is', 0.8492857708657883), ('has', 0.031447205132944314), (
+'con-sists', 0.007974018430016107),
+ []
+
+
+Overfull \hbox (48.41971pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('in-cludes', 0.006363372323290999), ('serves', 0.0053864230
+45441344), ('lies', 0.005175190769149526),
+ []
+
+
+Overfull \hbox (73.30058pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('fea-tures', 0.004647110078419983), ('con-tains', 0.0027196
+155572571487), ('plays', 0.002376363108282946),
+ []
+
+
+Overfull \hbox (6.41428pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('the', 0.4105331225750826), ('a', 0.3305647363126886), ('Th
+e', 0.16726541169708292), ('an',
+ []
+
+
+Overfull \hbox (2.70343pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 0.05095559706854433), ('This', 0.015030895243569478), ('A', 
+0.00731426929156488), ('this',
+ []
+
+
+Overfull \hbox (0.75676pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 0.0044546630262968815), ('both', 0.0022273315131484408), ('a
+ll', 0.0020261531829285817),
+ []
+
+
+Overfull \hbox (41.15019pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('family', 0.08389095971617191), ('moth', 0.0547895989580994
+3), ('vil-lage', 0.020680828131315398),
+ []
+
+
+Overfull \hbox (41.91057pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('dis-trict', 0.01836798850316612), ('state', 0.015808146584
+631966), ('town', 0.013270759419769166),
+ []
+
+
+Overfull \hbox (35.21887pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('area', 0.010666007993892307), ('sta-tion', 0.0105425068486
+9987), ('genus', 0.01043023308034311),
+ []
+
+
+Overfull \hbox (2.70345pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('of', 0.4028518815808112), ('in', 0.31978217416623383), ('b
+y', 0.05721075908525741), ('on',
+ []
+
+
+Overfull \hbox (27.52344pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('species', 0.20187223095612405), ('stars', 0.02651136201229
+098), ('roles', 0.02193797341717879),
+ []
+
+
+Overfull \hbox (55.811pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('forests', 0.01207660425896813), ('moths', 0.00793197084464
+7706), ('sports', 0.0067171644990710305),
+ []
+
+
+Overfull \hbox (58.12265pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('ar-eas', 0.006574246105473774), ('peo-ple', 0.006431327711
+876518), ('ser-vices', 0.006288409318279262),
+ []
+
+
+Overfull \hbox (62.016pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('American', 0.03236222987118981), ('his-toric', 0.027962102
+12554558), ('small', 0.023845853589297753),
+ []
+
+
+Overfull \hbox (60.98183pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('In-dian', 0.019161846634257122), ('for-mer', 0.01511656790
+0358398), ('ge-o-logic', 0.01383911145807459),
+ []
+
+
+Overfull \hbox (54.53352pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('civil', 0.012845534225187184), ('pub-lic', 0.0106454703523
+65068), ('na-tional', 0.009829317625350413),
+ []
+
+
+Overfull \hbox (42.42764pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('located', 0.24616422188501097), ('known', 0.06938121733265
+891), ('based', 0.06651492159838139),
+ []
+
+
+Overfull \hbox (23.87343pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('owned', 0.03827347833417636), ('been', 0.02554375316135559
+), ('used', 0.02554375316135559),
+ []
+
+
+Overfull \hbox (61.92477pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('sit-u-ated', 0.024785027819929185), ('named', 0.0187995279
+04232), ('op-er-ated', 0.014668689934243804),
+ []
+
+
+Overfull \hbox (53.04309pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('ei-ther', 0.0010916037478395342), ('both', 0.0010006367688
+529063), ('And', 0.0008187028108796507),
+ []
+
+
+Overfull \hbox (36.64848pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('et', 0.0007277358318930229), ('moth', 0.000636768852906394
+9), ('plus', 0.0005458018739197671),
+ []
+
+
+Overfull \hbox (30.93011pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('also', 0.19706869150626877), ('cur-rently', 0.060038848666
+78439), ('now', 0.05244570015892636),
+ []
+
+
+Overfull \hbox (5.31924pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('well', 0.03337453646477132), ('as', 0.027017481900052976),
+ ('not', 0.023132615221613986),
+ []
+
+
+Overfull \hbox (96.59985pt too wide) in paragraph at lines 42--75
+\OT1/cmr/m/n/10.95 ('com-monly', 0.021543351580434397), ('just', 0.018894578845
+13509), ('ap-prox-i-mately', 0.017481900052975455),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--75
+
+ []
+
+[2] [3]
+Overfull \hbox (1.09381pt too wide) in paragraph at lines 76--77
+\OT1/cmr/m/n/10.95 based on the hmm I trained in 2a. The re-sults for this an-s
+wer is saved in \OT1/cmr/bx/n/10.95 test[]0[]results.txt\OT1/cmr/m/n/10.95 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Overfull \hbox (40.70001pt too wide) in paragraph at lines 78--80
+\OT1/cmr/m/n/10.95 By us-ing the im-ple-mented Viterbi Al-go-rithm, we gen-er-a
+te the tag-ging re-sults for data/test[]1[]tagging
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+[4] (./mp4_cs510_jiayi4_template.aux) ) 
+Here is how much of TeX's memory you used:
+ 2241 strings out of 492990
+ 28568 string characters out of 6133544
+ 90671 words of memory out of 5000000
+ 5797 multiletter control sequences out of 15000+600000
+ 11045 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 27i,6n,26p,481b,197s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/tools/texlive/2017/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmbx10.pfb><d:/tools/texlive/2017/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb><d:/tools/texlive/2017/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb><d:/tools/texlive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb><d:/tools/texlive/2017/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr12.pfb><d:/tools/texlive/2017/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr17.pfb><d:/tools/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb>
+Output written on mp4_cs510_jiayi4_template.pdf (4 pages, 88748 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
